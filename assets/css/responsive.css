@@ -1,0 +1,381 @@
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+    .cta2 .various {
+        padding: 13px 10px;
+    }
+    .item.wow.fadeInDown {
+        width: 370px;
+    }
+    .cp-buy-pack .order{
+        padding: 9px 10px;
+    }
+    
+}
+@media (max-width: 767px) {
+    .combo-pack-area {
+        display: none;
+    }
+    /*.packk .owl-item {*/
+    /*    display: none !important;*/
+    /*}*/
+    .packk .owl-item:nth-child(1), .packk .owl-item:nth-child(2), .packk .owl-item:nth-child(3) {
+        display: flex !important;
+    }
+    .logodiv img {
+        width: 63%;
+    }
+    ul.cp-list.mobilehegit {
+        height: auto;
+    }
+    .cp-total .ryt-side strong {
+        margin-top: 25px;
+    }
+    .cp-heading img {
+        display: none;
+    }
+    img.visa-img.des-lo {
+    display: none;
+}
+img.f-logo.mbl-f-logo {
+    display: block;
+}
+    .easter_popup {
+        top: 41%;
+        width: 100%;
+    }
+    .rabbit {
+        top: -4%;
+    }
+    .slick-next:before,
+    .slick-prev:before {
+        font-family: fontAwesome;
+        font-size: 25px;
+    }
+    .bst-slr {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+    }
+    .our-pricing-plans .package .head .right h5 {
+        font-size: 15px;
+    }
+    .height-dog {
+        height: 430px;
+    }
+    .home .works-wrap .mypackages {
+        margin-top: 0;
+    }
+    .banner-left li,
+    .banner-left ul,
+    .home .works-wrap,
+    header ul li a.chat_icon.chat,
+    section.bundle-offer ul {
+        padding: 0;
+    }
+    .logo-left .imgwrp img {
+        width: 48px !important;
+    }
+    .header-home .menu ul li,
+    .header-home .menu ul li.megamenu:hover .submenuwrap {
+        width: 320px;
+    }
+    .menu .submenuwrap .menu-container {
+        width: 300px;
+    }
+    .header-home .menu .menu-container ul,
+    .package.video {
+        margin-top: 20px;
+    }
+    .myhome .content,
+    section.strugglesec {
+        padding-top: 0;
+    }
+    .dtf .intl-tel-input,
+    .top-home .content h1.title {
+        margin-bottom: 20px;
+    }
+    .topformcontainer {
+        top: 60px;
+        width: 345px;
+    }
+    .myport h2 {
+        line-height: 40px !important;
+        margin-top: 30px;
+        font-size: 32px !important;
+    }
+    .mypackages .mytext {
+        line-height: 22px;
+    }
+    .top-home .content span i {
+        margin: 60px auto 20px;
+    }
+    .subscribe-fold {
+        padding: 10px;
+    }
+    .subs-pac .actions {
+        margin: 10px 0 0;
+    }
+    .subscribe-fold .table-packages .body ul li h6,
+    img.lazy.f-logo.mbl-f-logo {
+        display: block;
+    }
+    .banner-left p,
+    .bundle-offer h4,
+    .content,
+    .f-logo,
+    .logodiv,
+    .our-combopack,
+    .paright,
+    .send-wrap,
+    .strugglesec h2,
+    .testimonial .item .itext .star,
+    .testimonial .item .itext p,
+    .top-right ul,
+    section.banner,
+    section.bundle-offer .bundle-top h2,
+    section.bundle-offer h2 span,
+    section.bundle-offer ul,
+    section.strugglesec .mtpx-30 {
+        text-align: center;
+    }
+    .bundle-img,
+    .scroll-dinn,
+    .spon-images,
+    .top-left a,
+    .top-left h4,
+    img.lazy.visa-img.des-lo {
+        display: none;
+    }
+    .our-pricing-plans p,
+    header ul li a.toll_icon {
+        padding: 0;
+        margin: 0;
+    }
+    .owl-pricing .owl-nav .owl-next {
+        position: absolute;
+        right: 32%;
+        top: 100%;
+    }
+    .owl-pricing .owl-nav .owl-prev {
+        position: absolute;
+        left: 32%;
+        top: 100%;
+    }
+    .cta2 .wrap a,
+    .our-combopack .btn-pack .custom-btn {
+        margin: 0 0 10px;
+    }
+    .our-combopack h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .popupform ul li input[type="submit"],
+    .top-left h4 {
+        font-size: 12px;
+    }
+    .our-combopack {
+        padding: 30px 0;
+    }
+    .gray-scr h3 > span {
+        padding: 0 !important;
+    }
+    .spon-images img,
+    .step2.step2.step2-new,
+    .testimonial .item .itext {
+        width: 100%;
+    }
+    .step-form-area ul,
+    section.bundle-offer .combo-btn li a.combo_chat.chat,
+    section.bundle-offer .combo-btn li a.combo_tel {
+        padding-left: 0;
+    }
+    .step2-title {
+        padding: 60px 20px 0;
+    }
+    header ul li a {
+        display: inline-block;
+        padding: 5px 0;
+        font-size: 15px;
+    }
+    header ul li {
+        margin-left: 5px;
+        padding-left: 0;
+    }
+    .cta2 .wrap h3,
+    .cta2 .wrap h6 {
+        text-align: center;
+        font-size: 18px;
+        width: 100%;
+        line-height: 30px;
+        margin-bottom: 0;
+    }
+    .cta2 .wrap .gt-strt {
+        float: initial;
+    }
+    .scroll-dinn {
+        top: -61px;
+        left: 0;
+    }
+    section.banner {
+        padding-top: 10em;
+        padding-bottom: 40px;
+    }
+    .top-right ul {
+        width: 100% !important;
+        display: flex;
+        justify-content: center;
+    }
+    body .popupform {
+        width: 90%;
+    }
+    section.banner a {
+        font-size: 14px;
+        padding: 10px 20px;
+        margin: 0;
+    }
+    img.head-thumb {
+        max-width: 100%;
+        margin: 30px 0;
+    }
+    .spon-images {
+        padding: 20px;
+    }
+    .head-style h2 {
+        line-height: 1;
+    }
+    .pack-inn {
+        margin: 40px 0;
+    }
+    .brand-price h2 b {
+        left: -80px;
+    }
+    .brand-price h2 {
+        font-size: 60px;
+    }
+    .brand-price h3 {
+        font-size: 25px;
+    }
+    .brand-price h5 {
+        font-size: 100px;
+    }
+    .head-style h2 + p {
+        padding: 0 30px;
+    }
+    .bundle-offer > .container.btm-container {
+        flex-wrap: wrap;
+    }
+    .slick-dots {
+        bottom: 50px;
+    }
+    .contact-info {
+        text-align: center !important;
+    }
+    .cta-img img {
+        width: 100%;
+        margin: 20px 0;
+        position: unset;
+    }
+    section.cta2.mygrid {
+        height: auto;
+        width: 100% !important;
+    }
+    .scroll-div {
+        max-width: 100%;
+        width: 100%;
+    }
+    section.banner h1 {
+        font-size: 32px;
+    }
+    section.bundle-offer h2 span {
+        font-size: 22px;
+    }
+    .head-form {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .banner-left li:before {
+        left: 8px;
+    }
+    button.slick-next.slick-arrow {
+        top: inherit;
+        bottom: -40px;
+        right: 41%;
+    }
+    button.slick-prev.slick-arrow {
+        top: inherit;
+        bottom: -40px;
+        left: 44%;
+    }
+    .slick-prev:before {
+        content: "\f104";
+    }
+    .slick-next:before {
+        content: "\f105";
+    }
+    .our-pricing-plans .slick-next:before,
+    .slick-prev:before {
+        color: #000;
+    }
+    .btn-pack {
+        text-align: center;
+        margin-bottom: 40px;
+        margin-top: 15px;
+    }
+    .btn-pack a {
+        padding: 14px 11px;
+    }
+    .strugglesec h2 {
+        line-height: initial;
+        font-size: 26px;
+    }
+    .strugglesec ul {
+        margin: 20px 0 0;
+        text-align: center;
+    }
+    .strugglesec ul li {
+        width: 100%;
+        font-size: 16px;
+        padding-bottom: 10px;
+        padding-left: 0;
+    }
+    .strugglesec ul li:before {
+        left: 50px;
+        top: 5px;
+    }
+    .contacts .content,
+    .strugglesec p {
+        margin-bottom: 0;
+    }
+    .mtpx-30 a {
+        margin-top: 10px;
+    }
+    .testimonial-sec h3 {
+        margin-bottom: 10px;
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .testimonial .item .icli {
+        display: flex;
+    }
+    .testimonial .item .itext p {
+        text-align: start;
+        font-size: 15px;
+    }
+    .contacts .content h2 {
+        font-size: 28px !important;
+        line-height: 38px !important;
+    }
+    footer .chexck p {
+        margin: 0;
+    }
+    .copy-right p {
+        font-size: 12px !important ;
+        text-align: center;
+    }
+    .step2-title.container h1 {
+        font-size: 30px;
+    }
+    h3.step-section-title-n span {
+        font-size: 23px;
+    }
+}
